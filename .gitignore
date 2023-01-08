@@ -1,4 +1,5 @@
-old_*
+old_
+img/old_*
 .idea/
 *.iml
 .DS_Store
